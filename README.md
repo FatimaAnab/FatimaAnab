@@ -2,8 +2,6 @@
 - 🎓 I’m a CSE Undergraduate ...
 - 🌱 I’m currently learning full stack web development.
 - ✌︎︎ I love learning new technologies and contributing to open source.
-   How to reach me ...
- 
 
 
 <!---

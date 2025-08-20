@@ -20,7 +20,7 @@
 - [Email](fatimaanab92@gmail.com)  
 
 ---
-⭐️ *Feel free to check out my repositories and connect with me for collaboration!*  
+
 
 <!---
 FatimaAnab/FatimaAnab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

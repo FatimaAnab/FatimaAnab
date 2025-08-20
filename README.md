@@ -1,16 +1,17 @@
 # Hi there 👋, I'm Fatima Anab  
 
 🎓 A Computer Science and Engineering undergraduate passionate about technology and problem-solving.  
-☁️ Currently diving deep into **DevOps** and **AWS Cloud Computing**.  
+☁️ Currently learning and working on **DevOps** and **AWS Cloud Computing**.  
 💻 Prior experience in **Web Development**, building responsive and user-friendly applications.  
 🚀 Always eager to learn, explore, and contribute to impactful projects.  
 
 ---
 
 ### 🌱 What I'm up to:
-- Learning and working on **DevOps practices** and **AWS services**  
+- Learning and working on **DevOps practices** and **AWS services**
+- DevOps tools (CI/CD, Docker, Kubernetes) 
 - Exploring **cloud-native technologies**  
-- Sharpening my **coding and development skills**  
+
 
 ---
 
